@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.App h2{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  line-height: 4;
+}
+
+.main form{
+  /* padding: 10px; */
+  margin: 0 auto;
+  /* border: solid 1px red; */
+  width: 300px;
+}
+P{
+  color: black;
+  font-size: medium;
+  font-size: 20px;
+  margin-top: 5px;
+}
+.main form select{
+  width: 70%;
+  padding: 10px;
+} 
+
+.main form textarea{
+  width: 100%;
+  height: 10vh;
+}
+
+.main input[type="submit"]{
+  padding: 5px 10px;
+  margin-bottom: 1rem;
+}
+
+.main form button{
+  padding: 9.5px;
+}
+
+.video-player{
+  margin-top: 20px;
+}
